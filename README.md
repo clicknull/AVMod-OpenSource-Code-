@@ -18,7 +18,7 @@ El fin de avmod es lograr dar a entender que los AntiVirus no son la manera más
 
 # Instalación Dependencias
 
-Si no inicia, windows instalara .Net. Al iniciar el programa este detectara si Netcat o Golang estan instalados, si no es así, te los exigirá.
+Si no inicia, windows instalara .Net. Al iniciar el programa este detectara si Netcat o Golang estan instalados, si no es así, los exigirá.
 
 - Golang: https://golang.org/dl/
 
