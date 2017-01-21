@@ -26,7 +26,7 @@ Si no inicia, windows instalara .Net. Al iniciar el programa este detectara si N
 <table>
     <tr>
         <th>Sistema operativo</th>
-        <th> Versión </th>
+        <th> Rendimiento </th>
     </tr>
     <tr>
         <td>Windows 10</td>
