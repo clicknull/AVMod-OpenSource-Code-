@@ -4,7 +4,7 @@
 [![version](https://img.shields.io/badge/Version-2.0-red.svg)]()
 # AVMod-OpenSource-Code
 
-La intención de este proyecto es dar a conocer lo importante y necesario que es cuidarse en internet. Cualquier uso mal intencionado o en contra de la ley, el creador no se hara responsable.
+La intención de este proyecto es dar a conocer lo importante y necesario que es cuidarse en internet. El creador no se hara responsable de cualquier uso mal intencionado o en contra de la ley.
 
 # ¿Qué es?
 
